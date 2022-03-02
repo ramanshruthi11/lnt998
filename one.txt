@@ -1,2 +1,8 @@
 hello everyone
+<<<<<<< HEAD
 happy learning
+=======
+hope everyone is safe
+stay safe
+GET SET GO
+>>>>>>> branch-1
