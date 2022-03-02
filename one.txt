@@ -6,3 +6,4 @@ GET SET GO
 live your life a little
 Hakuna matata...hakuna matata
 hip hip hurray hip hip hurray!!!
+html is used to create static web pages
